@@ -14,11 +14,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Acre",
-                        "uf": "Acre",
+                        "uf": "AC",
                         "codigo": 12,
                         "regiao": "Norte"
                     },
-                    "id_uf": "AC",
+                    "id": "AC",
                     "arcs": [
                         [
                             0,
@@ -31,11 +31,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Alagoas",
-                        "uf": "Alagoas",
+                        "uf": "AL",
                         "codigo": 27,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "AL",
+                    "id": "AL",
                     "arcs": [
                         [
                             3,
@@ -49,11 +49,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Amazonas",
-                        "uf": "Amazonas",
+                        "uf": "AM",
                         "codigo": 13,
                         "regiao": "Norte"
                     },
-                    "id_uf": "AM",
+                    "id": "AM",
                     "arcs": [
                         [
                             7,
@@ -69,11 +69,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Amapá",
-                        "uf": "Amapá",
+                        "uf": "AP",
                         "codigo": 16,
                         "regiao": "Norte"
                     },
-                    "id_uf": "AP",
+                    "id": "AP",
                     "arcs": [
                         [
                             12,
@@ -85,11 +85,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Bahia",
-                        "uf": "Bahia",
+                        "uf": "BA",
                         "codigo": 29,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "BA",
+                    "id": "BA",
                     "arcs": [
                         [
                             14,
@@ -108,11 +108,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Ceará",
-                        "uf": "Ceará",
+                        "uf": "CE",
                         "codigo": 23,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "CE",
+                    "id": "CE",
                     "arcs": [
                         [
                             22,
@@ -131,7 +131,7 @@
                         "codigo": 53,
                         "regiao": "Centro-Oeste"
                     },
-                    "id_uf": "DF",
+                    "id": "DF",
                     "arcs": [
                         [
                             27,
@@ -143,11 +143,11 @@
                     "type": "MultiPolygon",
                     "properties": {
                         "name": "Espírito Santo",
-                        "uf": "Espírito Santo",
+                        "uf": "ES",
                         "codigo": 32,
                         "regiao": "Sudeste"
                     },
-                    "id_uf": "ES",
+                    "id": "ES",
                     "arcs": [
                         [
                             [
@@ -199,11 +199,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Goiás",
-                        "uf": "Goiás",
+                        "uf": "GO",
                         "codigo": 52,
                         "regiao": "Centro-Oeste"
                     },
-                    "id_uf": "GO",
+                    "id": "GO",
                     "arcs": [
                         [
                             40,
@@ -220,11 +220,11 @@
                     "type": "MultiPolygon",
                     "properties": {
                         "name": "Maranhão",
-                        "uf": "Maranhão",
+                        "uf": "MA",
                         "codigo": 21,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "MA",
+                    "id": "MA",
                     "arcs": [
                         [
                             [
@@ -540,11 +540,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Minas Gerais",
-                        "uf": "Minas Gerais",
+                        "uf": "MG",
                         "codigo": 31,
                         "regiao": "Sudeste"
                     },
-                    "id_uf": "MG",
+                    "id": "MG",
                     "arcs": [
                         [
                             -43,
@@ -562,11 +562,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Mato Grosso do Sul",
-                        "uf": "Mato Grosso do Sul",
+                        "uf": "MS",
                         "codigo": 50,
                         "regiao": "Centro-Oeste"
                     },
-                    "id_uf": "MS",
+                    "id": "MS",
                     "arcs": [
                         [
                             112,
@@ -582,11 +582,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Mato Grosso",
-                        "uf": "Mato Grosso",
+                        "uf": "MT",
                         "codigo": 51,
                         "regiao": "Centro-Oeste"
                     },
-                    "id_uf": "MT",
+                    "id": "MT",
                     "arcs": [
                         [
                             -11,
@@ -603,11 +603,11 @@
                     "type": "MultiPolygon",
                     "properties": {
                         "name": "Pará",
-                        "uf": "Pará",
+                        "uf": "PA",
                         "codigo": 15,
                         "regiao": "Norte"
                     },
-                    "id_uf": "PA",
+                    "id": "PA",
                     "arcs": [
                         [
                             [
@@ -697,11 +697,11 @@
                     "type": "MultiPolygon",
                     "properties": {
                         "name": "Paraíba",
-                        "uf": "Paraíba",
+                        "uf": "PB",
                         "codigo": 25,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "PB",
+                    "id": "PB",
                     "arcs": [
                         [
                             [
@@ -722,11 +722,11 @@
                     "type": "MultiPolygon",
                     "properties": {
                         "name": "Pernambuco",
-                        "uf": "Pernambuco",
+                        "uf": "PE",
                         "codigo": 26,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "PE",
+                    "id": "PE",
                     "arcs": [
                         [
                             [
@@ -749,11 +749,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Piauí",
-                        "uf": "Piauí",
+                        "uf": "PI",
                         "codigo": 22,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "PI",
+                    "id": "PI",
                     "arcs": [
                         [
                             145,
@@ -769,11 +769,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Paraná",
-                        "uf": "Paraná",
+                        "uf": "PR",
                         "codigo": 41,
                         "regiao": "Sul"
                     },
-                    "id_uf": "PR",
+                    "id": "PR",
                     "arcs": [
                         [
                             -115,
@@ -788,11 +788,11 @@
                     "type": "MultiPolygon",
                     "properties": {
                         "name": "Rio de Janeiro",
-                        "uf": "Rio de Janeiro",
+                        "uf": "RJ",
                         "codigo": 33,
                         "regiao": "Sudeste"
                     },
-                    "id_uf": "RJ",
+                    "id": "RJ",
                     "arcs": [
                         [
                             [
@@ -1033,11 +1033,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Rio Grande do Norte",
-                        "uf": "Rio Grande do Norte",
+                        "uf": "RN",
                         "codigo": 24,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "RN",
+                    "id": "RN",
                     "arcs": [
                         [
                             198,
@@ -1050,11 +1050,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Rondônia",
-                        "uf": "Rondônia",
+                        "uf": "RO",
                         "codigo": 11,
                         "regiao": "Norte"
                     },
-                    "id_uf": "RO",
+                    "id": "RO",
                     "arcs": [
                         [
                             -12,
@@ -1068,11 +1068,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Roraima",
-                        "uf": "Roraima",
+                        "uf": "RR",
                         "codigo": 14,
                         "regiao": "Norte"
                     },
-                    "id_uf": "RR",
+                    "id": "RR",
                     "arcs": [
                         [
                             -121,
@@ -1085,11 +1085,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Rio Grande do Sul",
-                        "uf": "Rio Grande do Sul",
+                        "uf": "RS",
                         "codigo": 43,
                         "regiao": "Sul"
                     },
-                    "id_uf": "RS",
+                    "id": "RS",
                     "arcs": [
                         [
                             201,
@@ -1101,11 +1101,11 @@
                     "type": "MultiPolygon",
                     "properties": {
                         "name": "Santa Catarina",
-                        "uf": "Santa Catarina",
+                        "uf": "SC",
                         "codigo": 42,
                         "regiao": "Sul"
                     },
-                    "id_uf": "SC",
+                    "id": "SC",
                     "arcs": [
                         [
                             [
@@ -1141,11 +1141,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Sergipe",
-                        "uf": "Sergipe",
+                        "uf": "SE",
                         "codigo": 28,
                         "regiao": "Nordeste"
                     },
-                    "id_uf": "SE",
+                    "id": "SE",
                     "arcs": [
                         [
                             -6,
@@ -1158,11 +1158,11 @@
                     "type": "MultiPolygon",
                     "properties": {
                         "name": "São Paulo",
-                        "uf": "São Paulo",
+                        "uf": "SP",
                         "codigo": 35,
                         "regiao": "Sudeste"
                     },
-                    "id_uf": "SP",
+                    "id": "SP",
                     "arcs": [
                         [
                             [
@@ -1309,11 +1309,11 @@
                     "type": "Polygon",
                     "properties": {
                         "name": "Tocantins",
-                        "uf": "Tocantins",
+                        "uf": "TO",
                         "codigo": 17,
                         "regiao": "Norte"
                     },
-                    "id_uf": "TO",
+                    "id": "TO",
                     "arcs": [
                         [
                             -124,
