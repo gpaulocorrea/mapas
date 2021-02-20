@@ -18,7 +18,7 @@
                         "codigo": 12,
                         "regiao": "Norte"
                     },
-                    "id": "AC",
+                    "id_uf": "AC",
                     "arcs": [
                         [
                             0,
@@ -35,7 +35,7 @@
                         "codigo": 27,
                         "regiao": "Nordeste"
                     },
-                    "id": "AL",
+                    "id_uf": "AL",
                     "arcs": [
                         [
                             3,
@@ -53,7 +53,7 @@
                         "codigo": 13,
                         "regiao": "Norte"
                     },
-                    "id": "AM",
+                    "id_uf": "AM",
                     "arcs": [
                         [
                             7,
@@ -73,7 +73,7 @@
                         "codigo": 16,
                         "regiao": "Norte"
                     },
-                    "id": "AP",
+                    "id_uf": "AP",
                     "arcs": [
                         [
                             12,
@@ -89,7 +89,7 @@
                         "codigo": 29,
                         "regiao": "Nordeste"
                     },
-                    "id": "BA",
+                    "id_uf": "BA",
                     "arcs": [
                         [
                             14,
@@ -112,7 +112,7 @@
                         "codigo": 23,
                         "regiao": "Nordeste"
                     },
-                    "id": "CE",
+                    "id_uf": "CE",
                     "arcs": [
                         [
                             22,
@@ -131,7 +131,7 @@
                         "codigo": 53,
                         "regiao": "Centro-Oeste"
                     },
-                    "id": "DF",
+                    "id_uf": "DF",
                     "arcs": [
                         [
                             27,
@@ -147,7 +147,7 @@
                         "codigo": 32,
                         "regiao": "Sudeste"
                     },
-                    "id": "ES",
+                    "id_uf": "ES",
                     "arcs": [
                         [
                             [
@@ -203,7 +203,7 @@
                         "codigo": 52,
                         "regiao": "Centro-Oeste"
                     },
-                    "id": "GO",
+                    "id_uf": "GO",
                     "arcs": [
                         [
                             40,
@@ -224,7 +224,7 @@
                         "codigo": 21,
                         "regiao": "Nordeste"
                     },
-                    "id": "MA",
+                    "id_uf": "MA",
                     "arcs": [
                         [
                             [
@@ -544,7 +544,7 @@
                         "codigo": 31,
                         "regiao": "Sudeste"
                     },
-                    "id": "MG",
+                    "id_uf": "MG",
                     "arcs": [
                         [
                             -43,
@@ -566,7 +566,7 @@
                         "codigo": 50,
                         "regiao": "Centro-Oeste"
                     },
-                    "id": "MS",
+                    "id_uf": "MS",
                     "arcs": [
                         [
                             112,
@@ -586,7 +586,7 @@
                         "codigo": 51,
                         "regiao": "Centro-Oeste"
                     },
-                    "id": "MT",
+                    "id_uf": "MT",
                     "arcs": [
                         [
                             -11,
@@ -607,7 +607,7 @@
                         "codigo": 15,
                         "regiao": "Norte"
                     },
-                    "id": "PA",
+                    "id_uf": "PA",
                     "arcs": [
                         [
                             [
@@ -701,7 +701,7 @@
                         "codigo": 25,
                         "regiao": "Nordeste"
                     },
-                    "id": "PB",
+                    "id_uf": "PB",
                     "arcs": [
                         [
                             [
@@ -726,7 +726,7 @@
                         "codigo": 26,
                         "regiao": "Nordeste"
                     },
-                    "id": "PE",
+                    "id_uf": "PE",
                     "arcs": [
                         [
                             [
@@ -753,7 +753,7 @@
                         "codigo": 22,
                         "regiao": "Nordeste"
                     },
-                    "id": "PI",
+                    "id_uf": "PI",
                     "arcs": [
                         [
                             145,
@@ -773,7 +773,7 @@
                         "codigo": 41,
                         "regiao": "Sul"
                     },
-                    "id": "PR",
+                    "id_uf": "PR",
                     "arcs": [
                         [
                             -115,
@@ -792,7 +792,7 @@
                         "codigo": 33,
                         "regiao": "Sudeste"
                     },
-                    "id": "RJ",
+                    "id_uf": "RJ",
                     "arcs": [
                         [
                             [
@@ -1037,7 +1037,7 @@
                         "codigo": 24,
                         "regiao": "Nordeste"
                     },
-                    "id": "RN",
+                    "id_uf": "RN",
                     "arcs": [
                         [
                             198,
@@ -1054,7 +1054,7 @@
                         "codigo": 11,
                         "regiao": "Norte"
                     },
-                    "id": "RO",
+                    "id_uf": "RO",
                     "arcs": [
                         [
                             -12,
@@ -1072,7 +1072,7 @@
                         "codigo": 14,
                         "regiao": "Norte"
                     },
-                    "id": "RR",
+                    "id_uf": "RR",
                     "arcs": [
                         [
                             -121,
@@ -1089,7 +1089,7 @@
                         "codigo": 43,
                         "regiao": "Sul"
                     },
-                    "id": "RS",
+                    "id_uf": "RS",
                     "arcs": [
                         [
                             201,
@@ -1105,7 +1105,7 @@
                         "codigo": 42,
                         "regiao": "Sul"
                     },
-                    "id": "SC",
+                    "id_uf": "SC",
                     "arcs": [
                         [
                             [
@@ -1145,7 +1145,7 @@
                         "codigo": 28,
                         "regiao": "Nordeste"
                     },
-                    "id": "SE",
+                    "id_uf": "SE",
                     "arcs": [
                         [
                             -6,
@@ -1162,7 +1162,7 @@
                         "codigo": 35,
                         "regiao": "Sudeste"
                     },
-                    "id": "SP",
+                    "id_uf": "SP",
                     "arcs": [
                         [
                             [
@@ -1313,7 +1313,7 @@
                         "codigo": 17,
                         "regiao": "Norte"
                     },
-                    "id": "TO",
+                    "id_uf": "TO",
                     "arcs": [
                         [
                             -124,
